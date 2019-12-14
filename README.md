@@ -14,6 +14,8 @@ download link: https://sourceforge.net/projects/gnuwin32/files/bison/2.4.1/bison
 then Run the project using programrun.bat.Click this file ,the automatically Run the project and a black command window will be open like below:
 ![Image](images/Capture2.PNG)
 
+##Sample Input
+
 
 
 
