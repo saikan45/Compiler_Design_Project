@@ -126,16 +126,159 @@ main:
 	DEFAULT : 22-15;
 	
 	}
+}
+```
+## Sample Output
+```
 
-	
+Header file found :
+#include<mathematical.h>
 
-	
+Header file found :
+#include<exchangeInfo.h>
+
+Header file found :
+#include<math.h>
+
+main function strat
+
+Single line comment found :: //Variable declaration
+char declaration : 
+p q r interger declaration : 
+a b c float declaration : 
+x y z interger declaration : 
+N Size of the ARRAY is : 10
+char declaration : 
+C Size of the ARRAY is : 5
+
+Single line comment found :: // variable assignment
+a 
+ variable value: 60
+
+b 
+ variable value: 30
+
+c 
+ variable value: 0
+
+c a b 
+Addition : 90 
+
+ variable value: 90
+
+c a b 
+Subtraction :30 
+ 
+ variable value: 30
+
+c a b 
+Multiplication :1800 
+ 
+ variable value: 1800
 
 
+Single line comment found :: // if else block
+
+Greater than :5 > 2 
+ 
+Subtraction :-7 
+ IF EXECUTED
+
+Addition : 29 
+
+Single line comment found :: // IF ELSE Block
+
+Less Than :40 < 30 
+
+Addition : 70 
+
+Greater than :30 > 70 
+ a b 
+Subtraction :30 
+ b a 
+Subtraction :-30 
+ 
+Single line comment found :: // factorial calculation
+FACTORIAL of 5 is : 120
 
 
+Single line comment found :: // Odd Even calculation
+Odd Even Number detection 
+Number : 10 is -> Even
 
-}	
+
+Single line comment found :: // While Loop Block
+
+Addition : 23 
+ expression: 23
+
+
+WHILE Loop execution
+
+loop iteration : 1 expression value: 23 
+
+loop iteration : 2 expression value: 23 
+
+
+Power  :2 ^ 4 
+ expression: 16
+
+
+WHILE Loop execution
+
+loop iteration : 1 expression value: 16 
+
+loop iteration : 2 expression value: 16 
+
+loop iteration : 3 expression value: 16 
+
+
+Single line comment found :: // Mathematical Expression
+
+Value of Log(16) is : 2.772589
+ expression: 2
+
+
+Value of SIN(30) is : 0.500001
+ expression: 0
+
+
+Single line comment found :: // Print Fnction
+
+Addition : 25 
+
+Print : 25
+
+
+Single line comment found :: // For Loop block
+a b 
+Addition : 90 
+ expression: 90
+
+
+ FOR loop iteration  i: 1 expression value : 90
+
+ FOR loop iteration  i: 2 expression value : 90
+
+ FOR loop iteration  i: 3 expression value : 90
+
+
+Single line comment found :: // Switch Case
+Switch Case :: 2
+
+Addition : 30 
+Case No : 1 & expression value :30 
+
+Subtraction :14 
+ Case No : 2 & expression value :14 
+switch case matched
+
+Subtraction :7 
+ 
+Default case & expression value : 7
+Main function END
+
+
 
 
 
