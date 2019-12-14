@@ -8,7 +8,7 @@ Then you have to set Environment variable in your computer. ALso Set the Codeblo
 
 ![Image](images/Capture.PNG)
 
-The Install Bison in C drive.
+Then Install Bison in C drive.
 
 Download link: https://sourceforge.net/projects/gnuwin32/files/bison/2.4.1/bison-2.4.1-setup.exe/download?use_mirror=netcologne
 
